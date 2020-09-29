@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "m78zdNkbJrczbNrIyQNLjkj/8LI2AHZBSzJKRfgqI+I0Z40a8peCv7Km2PVc68fAKoodLJ3Yc+aNUssud0iWyg==",
+  "dgSpecHash": "ZvjU6JfFpu+yprDJS0n5n02B4KZXdJGyuli8rQbj+C9gdyXaLM777q4YqAu7AVb6nk2Lm0O8nfdgT0PDwgv1Ng==",
   "success": true,
   "projectFilePath": "C:\\Users\\Jeff\\source\\repos\\Ex4Candidato\\Ex4Candidato\\Ex4Candidato.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Jeff\\.nuget\\packages\\fluentvalidation\\9.2.2\\fluentvalidation.9.2.2.nupkg.sha512"
+  ],
   "logs": []
 }

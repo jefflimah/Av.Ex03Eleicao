@@ -7,6 +7,8 @@ namespace Ex4Candidato.Models
 {
     public class TimeEleicao
     {
+        internal string descricao;
+
         public int id { get; set; }
         public string nomeCandidato { get; set; }
         public string partido { get; set; }

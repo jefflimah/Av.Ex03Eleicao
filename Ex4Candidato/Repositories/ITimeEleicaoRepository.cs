@@ -11,5 +11,11 @@ namespace Ex4Candidato.Repositories
         public IList<TimeEleicao> ListaTodosTimes();
         public TimeEleicao BuscarTimePorId(int id);
         public void IserirTime(TimeEleicao timeEleicao);
+        TimeEleicao GetById(int id);
+        TimeEleicao GetById(int id);
+        TimeEleicao GetById(int id);
+        void Dispose();
+        IList<TimeEleicao> GetAll();
+        TimeEleicao GetById(int id);
     }
 }
